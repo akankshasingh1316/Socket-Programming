@@ -114,8 +114,8 @@ while  l == 1:
 		
 		
 		
-		os.startfile(r'C:\Users\desir\Desktop\Minor2\Sniffer.py')
-		os.startfile(r'C:\Users\desir\Desktop\Minor2\TraceRoute.py')
+		os.startfile(r'C:\Users\desir\Downloads\src\Sniffer.py')
+		os.startfile(r'C:\Users\desir\Downloads\src\TraceRoute.py')
 		
 		top10 = Tk()
 		msg = Label(top10,text = " First Fill in the Details for the Packet Analyser")
