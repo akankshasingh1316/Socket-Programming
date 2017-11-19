@@ -1,7 +1,5 @@
 # SocketProgramming
-Server Load Testing and Network Analysis
-
-### Objective Of the Project
+## Server Load Testing and Network Analysis
 
   Load testing is the process of putting demand on a software system or computing device and measuring its response. It is performed to determine a system's behavior under both normal and anticipated peak load conditions. It helps to identify the maximum operating capacity of an application as well as any bottlenecks and determine which element is causing degradation. The load is usually so great that error conditions are the expected result, although no clear boundary exists. Load and performance testing analyses software intended for a multi-user audience by subjecting the software to different numbers of virtual and live users while monitoring performance measurements under these different loads. Load and performance testing is usually conducted in a test environment identical to the production environment before the software system is permitted to go live.
   
